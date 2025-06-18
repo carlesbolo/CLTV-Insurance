@@ -1,0 +1,1 @@
+This work is in process but consist on the steps to construct a CLTV for an insurance company with house and automobile products
