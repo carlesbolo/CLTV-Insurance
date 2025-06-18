@@ -1,0 +1,12 @@
+id_oficina,localizacion,num_clientes,num_trabajadores
+Canalonline,Asturias,NULL,8
+sucursal1,"Castilla y León",NULL,6
+sucursal10,"País Vasco",NULL,3
+sucursal2,Asturias,NULL,6
+sucursal3,Madrid,NULL,6
+sucursal4,Andalucia,NULL,4
+sucursal5,Aragon,NULL,11
+sucursal6,"Islas Baleares",NULL,7
+sucursal7,Canarias,NULL,5
+sucursal8,Cantabria,NULL,11
+sucursal9,Cataluña,NULL,6
